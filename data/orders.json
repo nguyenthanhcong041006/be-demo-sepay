@@ -1,0 +1,210 @@
+[
+  {
+    "id": "ord_1788626112183_18ac6324",
+    "orderCode": "DH61702",
+    "customer": {
+      "name": "Khách hàng",
+      "phone": "0912345678",
+      "email": ""
+    },
+    "serviceName": "Thanh toán đơn hàng",
+    "amount": 200000,
+    "status": "PAID",
+    "bankInfo": {
+      "bank": "MBBank",
+      "accountNumber": "0388888888",
+      "accountName": "NGUYEN VAN A",
+      "orderCode": "DH12345",
+      "amount": 200000,
+      "qrUrl": ""
+    },
+    "createdAt": "2026-09-05T16:37:43.391Z",
+    "expiresAt": "2026-09-05T16:47:43.391Z",
+    "paymentDetails": {
+      "transactionId": "SIM_1788626263391",
+      "referenceCode": "REF482969",
+      "gateway": "MBBank",
+      "transferAmount": 200000,
+      "transactionDate": "2026-09-05T16:37:43.391Z",
+      "paidAt": "2026-09-05T16:37:43.391Z",
+      "isSimulated": true
+    }
+  },
+  {
+    "id": "ord_1788626291320_659b6f2a",
+    "orderCode": "DH84275",
+    "customer": {
+      "name": "Test User",
+      "email": "test@example.com",
+      "phone": "0987654321"
+    },
+    "serviceName": "G�i Chuy�n Nghi?p (Pro)",
+    "amount": 200000,
+    "note": "Test order",
+    "status": "PAID",
+    "bankInfo": {
+      "bank": "MBBank",
+      "accountNumber": "0388888888",
+      "accountName": "NGUYEN VAN A",
+      "orderCode": "DH84275",
+      "amount": 200000,
+      "qrUrl": "https://qr.sepay.vn/img?acc=0388888888&bank=MBBank&amount=200000&des=DH84275&template=compact"
+    },
+    "paymentDetails": {
+      "transactionId": "SIM_1788626291352",
+      "referenceCode": "REF583667",
+      "gateway": "MBBank",
+      "transferAmount": 200000,
+      "transactionDate": "2026-09-05T16:38:11.352Z",
+      "paidAt": "2026-09-05T16:38:11.352Z",
+      "isSimulated": true
+    },
+    "createdAt": "2026-09-05T16:38:11.321Z",
+    "expiresAt": "2026-09-05T16:48:11.321Z"
+  },
+  {
+    "id": "ord_1788626377210_e08d26b4",
+    "orderCode": "DH82404",
+    "customer": {
+      "name": "Nguyễn Văn An",
+      "email": "nguyenvanan@gmail.com",
+      "phone": "0912345678"
+    },
+    "serviceName": "Gói Chuyên Nghiệp (Pro)",
+    "amount": 200000,
+    "note": "Đăng ký gói dịch vụ SePay",
+    "status": "PAID",
+    "bankInfo": {
+      "bank": "MBBank",
+      "accountNumber": "0388888888",
+      "accountName": "NGUYEN VAN A",
+      "orderCode": "DH82404",
+      "amount": 200000,
+      "qrUrl": "https://qr.sepay.vn/img?acc=0388888888&bank=MBBank&amount=200000&des=DH82404&template=compact"
+    },
+    "paymentDetails": {
+      "transactionId": "SIM_1788626379317",
+      "referenceCode": "REF637791",
+      "gateway": "MBBank",
+      "transferAmount": 200000,
+      "transactionDate": "2026-09-05T16:39:39.317Z",
+      "paidAt": "2026-09-05T16:39:39.317Z",
+      "isSimulated": true
+    },
+    "createdAt": "2026-09-05T16:39:37.210Z",
+    "expiresAt": "2026-09-05T16:49:37.210Z"
+  },
+  {
+    "id": "ord_1788626400269_59d1d783",
+    "orderCode": "DH86283",
+    "customer": {
+      "name": "Nguyễn Văn An",
+      "email": "nguyenvanan@gmail.com",
+      "phone": "0912345678"
+    },
+    "serviceName": "Nạp tiền / Thanh toán tùy chọn",
+    "amount": 1500000000,
+    "note": "Đăng ký gói dịch vụ SePay",
+    "status": "PAID",
+    "bankInfo": {
+      "bank": "MBBank",
+      "accountNumber": "0388888888",
+      "accountName": "NGUYEN VAN A",
+      "orderCode": "DH86283",
+      "amount": 1500000000,
+      "qrUrl": "https://qr.sepay.vn/img?acc=0388888888&bank=MBBank&amount=1500000000&des=DH86283&template=compact"
+    },
+    "paymentDetails": {
+      "transactionId": "SIM_1788626401891",
+      "referenceCode": "REF415060",
+      "gateway": "MBBank",
+      "transferAmount": 1500000000,
+      "transactionDate": "2026-09-05T16:40:01.891Z",
+      "paidAt": "2026-09-05T16:40:01.891Z",
+      "isSimulated": true
+    },
+    "createdAt": "2026-09-05T16:40:00.269Z",
+    "expiresAt": "2026-09-05T16:50:00.269Z"
+  },
+  {
+    "id": "ord_1788626649459_54fd5b55",
+    "orderCode": "DH96019",
+    "customer": {
+      "name": "Nguyễn Văn An",
+      "email": "nguyenvanan@gmail.com",
+      "phone": "0912345678"
+    },
+    "serviceName": "Nạp tiền / Thanh toán tùy chọn",
+    "amount": 12121,
+    "note": "Đăng ký gói dịch vụ SePay",
+    "status": "PAID",
+    "bankInfo": {
+      "bank": "MBBank",
+      "accountNumber": "0388888888",
+      "accountName": "NGUYEN VAN A",
+      "orderCode": "DH96019",
+      "amount": 12121,
+      "qrUrl": "https://qr.sepay.vn/img?acc=0388888888&bank=MBBank&amount=12121&des=DH96019&template=compact"
+    },
+    "paymentDetails": {
+      "transactionId": "SIM_1788626653557",
+      "referenceCode": "REF123535",
+      "gateway": "MBBank",
+      "transferAmount": 12121,
+      "transactionDate": "2026-09-05T16:44:13.557Z",
+      "paidAt": "2026-09-05T16:44:13.557Z",
+      "isSimulated": true
+    },
+    "createdAt": "2026-09-05T16:44:09.459Z",
+    "expiresAt": "2026-09-05T16:54:09.459Z"
+  },
+  {
+    "id": "ord_1788626745274_e5a38348",
+    "orderCode": "DH45695",
+    "customer": {
+      "name": "Nguyễn Văn An",
+      "email": "nguyenvanan@gmail.com",
+      "phone": "0912345678"
+    },
+    "serviceName": "Gói Chuyên Nghiệp (Pro)",
+    "amount": 200000,
+    "note": "Đăng ký gói dịch vụ SePay",
+    "status": "FAILED",
+    "bankInfo": {
+      "bank": "MBBank",
+      "accountNumber": "0388888888",
+      "accountName": "NGUYEN VAN A",
+      "orderCode": "DH45695",
+      "amount": 200000,
+      "qrUrl": "https://qr.sepay.vn/img?acc=0388888888&bank=MBBank&amount=200000&des=DH45695&template=compact"
+    },
+    "paymentDetails": null,
+    "createdAt": "2026-09-05T16:45:45.275Z",
+    "expiresAt": "2026-09-05T16:55:45.275Z",
+    "failureReason": "Tài khoản nguồn không đủ số dư"
+  },
+  {
+    "id": "ord_1788626750869_bfe44c72",
+    "orderCode": "DH67606",
+    "customer": {
+      "name": "Nguyễn Văn An",
+      "email": "nguyenvanan@gmail.com",
+      "phone": "0912345678"
+    },
+    "serviceName": "Gói Chuyên Nghiệp (Pro)",
+    "amount": 200000,
+    "note": "Đăng ký gói dịch vụ SePay",
+    "status": "PENDING",
+    "bankInfo": {
+      "bank": "MBBank",
+      "accountNumber": "0388888888",
+      "accountName": "NGUYEN VAN A",
+      "orderCode": "DH67606",
+      "amount": 200000,
+      "qrUrl": "https://qr.sepay.vn/img?acc=0388888888&bank=MBBank&amount=200000&des=DH67606&template=compact"
+    },
+    "paymentDetails": null,
+    "createdAt": "2026-09-05T16:45:50.869Z",
+    "expiresAt": "2026-09-05T16:55:50.869Z"
+  }
+]
